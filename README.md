@@ -24,7 +24,7 @@ IMDB Dataset available in the Keras Module.
 
 ## Documentation
 
-For comprehensive information about the project, please refer to the [Documentation](https://github.com/thangarajarvind/Emotion-detection-to-upgrade-customer-experience/blob/main/Emotion_detection_to_upgrade_Customer_Experience%20(3).pdf).
+For comprehensive information about the project, please refer to the [Documentation](https://github.com/Renu-Aakanksha/Sentiment-Analysis-of-Movie-review-Dataset-using-LSTM-CNN/blob/main/Team_18%20Research%20Paper.pdf).
 
 ## Lessons Learned
 
